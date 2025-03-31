@@ -366,7 +366,6 @@ version: "1.0"
 license(s): "Apache License 2.0, CC BY 4.0" # CORRECTED License
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
-  layout: elk
   look: handDrawn
   theme: dark
 ---
