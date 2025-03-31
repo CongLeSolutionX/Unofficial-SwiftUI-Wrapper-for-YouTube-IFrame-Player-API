@@ -368,7 +368,7 @@ copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
   look: handDrawn
-  theme: base
+  theme: dark
 ---
 %%%%%%%% Mermaid version v11.4.1-b.14
 %%%%%%%% Toggle theme value to `base` to activate the initilization below for the customized theme version.
@@ -385,8 +385,8 @@ config:
       'lineColor': '#F8B229',
       'secondaryColor': '#EE2',
       'tertiaryColor': '#fff',
-      'stateBkgColor': '#eee',    # State background
-      'stateBorderColor': '#666' # State border
+      'stroke':'#3323',
+      'stroke-width': '0.5px'
     }
   }
 }%%
@@ -540,9 +540,8 @@ version: "1.0"
 license(s): "Apache License 2.0, CC BY 4.0" # CORRECTED License
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
-  layout: elk
   look: handDrawn
-  theme: base
+  theme: dark
 ---
 %%%%%%%% Mermaid version v11.4.1-b.14
 %%%%%%%% Toggle theme value to `base` to activate the initilization below for the customized theme version.
@@ -617,7 +616,7 @@ author: "Cong Le"
 version: "1.0"
 license(s): "Apache License 2.0, CC BY 4.0" # CORRECTED License
 config:
-  theme: base
+  theme: dark
 ---
 %%%%%%%% Mermaid version v11.4.1-b.14
 %%%%%%%% Available curve styles include the following keywords:
